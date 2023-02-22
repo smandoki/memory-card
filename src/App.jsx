@@ -23,13 +23,13 @@ function App() {
   }
 
   return (
-    <>
+    <div className='app'>
       <header>
         <h1>Memory Game</h1>
       </header>
       <Scoreboard {...score} />
       <Gameboard incrementScore={incrementScore} resetScore={resetScore} />
-    </>
+    </div>
   );
 }
 
