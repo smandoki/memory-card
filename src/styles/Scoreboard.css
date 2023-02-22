@@ -1,0 +1,12 @@
+.scoreboard {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.scoreboard h2 {
+  background-color: darkgrey;
+  padding: 8px 12px;
+  border-radius: 4px;
+}
