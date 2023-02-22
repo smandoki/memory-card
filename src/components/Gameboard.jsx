@@ -1,10 +1,14 @@
 import '../styles/Gameboard.css';
 import IMAGES from '../img/index';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 
 function Gameboard({ incrementScore, resetScore }) {
   const [cards, setCards] = useState([...IMAGES]);
   const [clicked, setClicked] = useState([]);
+
+  useEffect(() => {
+    shuffle();
+  }, []);
 
   function shuffle() {
     setCards((prevCards) => {
