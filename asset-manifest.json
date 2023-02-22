@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.bbd60985.css",
+    "main.js": "/memory-card/static/js/main.e3375f0c.js",
+    "static/media/slifer_the_sky_dragon.avif": "/memory-card/static/media/slifer_the_sky_dragon.2b3f32b1c317aa8fc626.avif",
+    "static/media/the_winged_dragon_of_ra.avif": "/memory-card/static/media/the_winged_dragon_of_ra.d1d06eb41e3ec165c405.avif",
+    "static/media/obelisk_the_tormentor.avif": "/memory-card/static/media/obelisk_the_tormentor.508b5e421a7a5cbcf633.avif",
+    "static/media/exodia_the_forbidden_one.avif": "/memory-card/static/media/exodia_the_forbidden_one.824bfeaa236a6726978a.avif",
+    "static/media/magician_of_black_chaos.avif": "/memory-card/static/media/magician_of_black_chaos.7e283ee18bfcb4e9d44c.avif",
+    "static/media/dark_magician.avif": "/memory-card/static/media/dark_magician.093bea31d8c16d831398.avif",
+    "static/media/relinquished.avif": "/memory-card/static/media/relinquished.f2a3399601b4b9a174bd.avif",
+    "static/media/buster_blader.avif": "/memory-card/static/media/buster_blader.fa4f84719d321f4e8a59.avif",
+    "static/media/monster_reborn.avif": "/memory-card/static/media/monster_reborn.725027a2c05853c694a1.avif",
+    "static/media/jinzo.avif": "/memory-card/static/media/jinzo.cb3055367fda565c5975.avif",
+    "static/media/blue_eyes_white_dragon.avif": "/memory-card/static/media/blue_eyes_white_dragon.8857976c0e1fd3b5ff47.avif",
+    "static/media/red_eyes_black_dragon.avif": "/memory-card/static/media/red_eyes_black_dragon.b7d60a9a030b8f475b2b.avif",
+    "index.html": "/memory-card/index.html",
+    "main.bbd60985.css.map": "/memory-card/static/css/main.bbd60985.css.map",
+    "main.e3375f0c.js.map": "/memory-card/static/js/main.e3375f0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbd60985.css",
+    "static/js/main.e3375f0c.js"
+  ]
+}
